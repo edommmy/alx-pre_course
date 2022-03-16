@@ -1,0 +1,2 @@
+echo -e "command line"
+cat up_to_date
