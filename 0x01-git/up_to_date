@@ -1,0 +1,2 @@
+echo -e "command line" >> up_to_date
+cat up_to_date and then ["git pull"]

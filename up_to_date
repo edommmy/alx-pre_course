@@ -1,0 +1,2 @@
+echo -e "message"
+cat up_to_date
